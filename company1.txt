@@ -1,0 +1,4 @@
+Company{id=2, name='Abc', totalRevenue=0.00}
+Company{id=1, name='Biomet', totalRevenue=1920.00}
+Company{id=4, name='Union', totalRevenue=0.00}
+Company{id=3, name='World Tranport', totalRevenue=0.00}
